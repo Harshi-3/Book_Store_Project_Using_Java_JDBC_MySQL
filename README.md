@@ -1,6 +1,4 @@
-# Book_Store_Project_Using_Java_JDBC_MySQL
-
-Book Store Project By Using Core Java,OOPS Concepts,JDBC and MySQL
+# Book Store Project By Using Core Java,OOPS Concepts,JDBC and MySQL
 
 This Book Store Management System is a Java-based application designed to streamline book inventory, sales, and student interactions. It offers features such as user registration, authentication, book management (addition, deletion, and updating), order processing, and database connectivity through JDBC. With a clear separation of concerns using controllers, DAOs, and DTOs, this system provides a scalable and organized solution for book store management tasks.
 
